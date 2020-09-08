@@ -1,6 +1,6 @@
 # Connection settings
 debug: no
-api_url: https://api.smartsensor.abb.com/
+api_url: https://api.smartsensor.abb.com.cn/
 proxy: none
 
 # Access credentials (the script prioritizes using api_key)
