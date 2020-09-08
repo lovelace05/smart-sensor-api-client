@@ -18,7 +18,7 @@ class SmartSensorClient:
         organization_id: The unique organization ID that the current user belongs to
     """
 
-    DEFAULT_API_URL = 'https://api.smartsensor.abb.com/'
+    DEFAULT_API_URL = 'https://api.smartsensor.abb.com.cn/'
 
     def __init__(self, settings_file: str = ''):
         """Initializes SmartSensorAPIClient
